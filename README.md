@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Elias Vieira - Desenvolvedor WEB!
+## Bem-vindo(a) ao perfil do Elias Vieira - Desenvolvedor Web!
 <div>
   <a href="https://github.com/EliasVsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasVsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
